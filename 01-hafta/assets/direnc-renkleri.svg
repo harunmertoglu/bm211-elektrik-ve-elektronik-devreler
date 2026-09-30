@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="250" viewBox="0 0 700 250">
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#386F9B"/>
+  </marker>
+  <marker id="arrow-ink" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#203957"/>
+  </marker>
+</defs>
+<text x="350" y="24" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" fill="#203957">Üç bant: kırmızı · yeşil · siyah</text>
+<line x1="160" y1="63" x2="215" y2="63" stroke="#203957" stroke-width="2.3" stroke-linecap="round"/>
+<line x1="485" y1="63" x2="540" y2="63" stroke="#203957" stroke-width="2.3" stroke-linecap="round"/>
+<rect x="215" y="37" width="270" height="52" rx="17" fill="#F5E7CA" stroke="#203957" stroke-width="2"/>
+<rect x="252" y="40" width="18" height="46" fill="#C43D36" stroke="#203957" stroke-width="0.7"/>
+<text x="261" y="110" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" fill="#667486">2</text>
+<rect x="300" y="40" width="18" height="46" fill="#36875D" stroke="#203957" stroke-width="0.7"/>
+<text x="309" y="110" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" fill="#667486">5</text>
+<rect x="348" y="40" width="18" height="46" fill="#1B2630" stroke="#203957" stroke-width="0.7"/>
+<text x="357" y="110" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" fill="#667486">0</text>
+<text x="350" y="144" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" fill="#203957">Beş bant: kırmızı · yeşil · siyah · altın · gümüş</text>
+<line x1="160" y1="183" x2="215" y2="183" stroke="#203957" stroke-width="2.3" stroke-linecap="round"/>
+<line x1="485" y1="183" x2="540" y2="183" stroke="#203957" stroke-width="2.3" stroke-linecap="round"/>
+<rect x="215" y="157" width="270" height="52" rx="17" fill="#F5E7CA" stroke="#203957" stroke-width="2"/>
+<rect x="252" y="160" width="18" height="46" fill="#C43D36" stroke="#203957" stroke-width="0.7"/>
+<text x="261" y="230" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" fill="#667486">2</text>
+<rect x="293" y="160" width="18" height="46" fill="#36875D" stroke="#203957" stroke-width="0.7"/>
+<text x="302" y="230" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" fill="#667486">5</text>
+<rect x="334" y="160" width="18" height="46" fill="#1B2630" stroke="#203957" stroke-width="0.7"/>
+<text x="343" y="230" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" fill="#667486">0</text>
+<rect x="375" y="160" width="18" height="46" fill="#D7B13A" stroke="#203957" stroke-width="0.7"/>
+<text x="384" y="230" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" fill="#667486">−1</text>
+<rect x="416" y="160" width="18" height="46" fill="#BAC1C9" stroke="#203957" stroke-width="0.7"/>
+<text x="425" y="230" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" fill="#667486">±10%</text>
+</svg>

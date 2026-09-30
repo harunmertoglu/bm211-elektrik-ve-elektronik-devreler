@@ -1,0 +1,18 @@
+# GitHub'da yalnızca ders notları, PDF'ler ve Typst kaynakları yer alır.
+*
+
+!/.gitignore
+
+!/??-hafta/
+!/??-hafta/*.typ
+!/??-hafta/*.pdf
+!/??-hafta/assets/
+!/??-hafta/assets/**
+
+!/toplu-pdf/
+!/toplu-pdf/*.typ
+!/toplu-pdf/*.pdf
+
+# macOS metadata files are not course assets.
+**/.DS_Store
+**/._*

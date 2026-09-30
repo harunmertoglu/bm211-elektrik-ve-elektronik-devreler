@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="185" viewBox="0 0 700 185">
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#386F9B"/>
+  </marker>
+  <marker id="arrow-ink" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#203957"/>
+  </marker>
+</defs>
+<text x="116" y="28" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#203957">Pil</text>
+<line x1="116" y1="42" x2="116" y2="97" stroke="#203957" stroke-width="2.3" stroke-linecap="round"/>
+<line x1="116" y1="116" x2="116" y2="177" stroke="#203957" stroke-width="2.3" stroke-linecap="round"/>
+<text x="350" y="28" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#203957">Bağımsız gerilim kaynağı</text>
+<line x1="350" y1="42" x2="350" y2="83" stroke="#203957" stroke-width="2.3" stroke-linecap="round"/>
+<line x1="350" y1="141" x2="350" y2="177" stroke="#203957" stroke-width="2.3" stroke-linecap="round"/>
+<text x="584" y="28" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#203957">Bağımsız akım kaynağı</text>
+<line x1="584" y1="42" x2="584" y2="83" stroke="#203957" stroke-width="2.3" stroke-linecap="round"/>
+<line x1="584" y1="141" x2="584" y2="177" stroke="#203957" stroke-width="2.3" stroke-linecap="round"/>
+<line x1="83" y1="97" x2="149" y2="97" stroke="#203957" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="93" y1="116" x2="139" y2="116" stroke="#203957" stroke-width="2.5" stroke-linecap="round"/>
+<text x="164" y="99" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#BD443F">+</text>
+<text x="164" y="125" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#386F9B">−</text>
+<circle cx="350" cy="112" r="29" fill="#F2F6FA" stroke="#203957" stroke-width="2"/>
+<text x="350" y="107" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#BD443F">+</text>
+<text x="350" y="130" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#386F9B">−</text>
+<circle cx="584" cy="112" r="29" fill="#F2F6FA" stroke="#203957" stroke-width="2"/>
+<line x1="584" y1="130" x2="584" y2="94" stroke="#386F9B" stroke-width="2.5" stroke-linecap="round" marker-end="url(#arrow)"/>
+</svg>

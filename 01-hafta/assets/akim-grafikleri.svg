@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="220" viewBox="0 0 700 220">
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#386F9B"/>
+  </marker>
+  <marker id="arrow-ink" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#203957"/>
+  </marker>
+</defs>
+<rect x="20" y="12" width="310" height="196" rx="8" fill="white" stroke="#D6E0E9" stroke-width="1"/>
+<text x="175" y="42" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#203957">Doğru akım</text>
+<line x1="66" y1="155" x2="297" y2="155" stroke="#667486" stroke-width="1.6" stroke-linecap="round" marker-end="url(#arrow)"/>
+<line x1="66" y1="177" x2="66" y2="65" stroke="#667486" stroke-width="1.6" stroke-linecap="round" marker-end="url(#arrow)"/>
+<text x="305" y="176" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" fill="#667486">t</text>
+<text x="44" y="74" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" fill="#667486">I, V</text>
+<rect x="370" y="12" width="310" height="196" rx="8" fill="white" stroke="#D6E0E9" stroke-width="1"/>
+<text x="525" y="42" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#203957">Alternatif akım</text>
+<line x1="416" y1="155" x2="647" y2="155" stroke="#667486" stroke-width="1.6" stroke-linecap="round" marker-end="url(#arrow)"/>
+<line x1="416" y1="177" x2="416" y2="65" stroke="#667486" stroke-width="1.6" stroke-linecap="round" marker-end="url(#arrow)"/>
+<text x="655" y="176" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" fill="#667486">t</text>
+<text x="394" y="74" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" fill="#667486">I, V</text>
+<line x1="66" y1="96" x2="285" y2="96" stroke="#386F9B" stroke-width="3" stroke-linecap="butt"/>
+<polyline points="416,155.0 419,149.7 422,144.6 425,139.5 428,134.8 431,130.3 434,126.2 437,122.6 440,119.5 443,117.0 446,115.1 449,113.7 452,113.1 455,113.1 458,113.7 461,115.1 464,117.0 467,119.5 470,122.6 473,126.2 476,130.3 479,134.8 482,139.5 485,144.6 488,149.7 491,155.0 494,160.3 497,165.4 500,170.5 503,175.2 506,179.7 509,183.8 512,187.4 515,190.5 518,193.0 521,194.9 524,196.3 527,196.9 530,196.9 533,196.3 536,194.9 539,193.0 542,190.5 545,187.4 548,183.8 551,179.7 554,175.2 557,170.5 560,165.4 563,160.3 566,155.0 569,149.7 572,144.6 575,139.5 578,134.8 581,130.3 584,126.2 587,122.6 590,119.5 593,117.0 596,115.1 599,113.7 602,113.1 605,113.1 608,113.7 611,115.1 614,117.0 617,119.5 620,122.6 623,126.2 626,130.3 629,134.8 632,139.5 635,144.6 638,149.7 641,155.0 644,160.3" fill="none" stroke="#386F9B" stroke-width="3" stroke-linejoin="round"/>
+</svg>

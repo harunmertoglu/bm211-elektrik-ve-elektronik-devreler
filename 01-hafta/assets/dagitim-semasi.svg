@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="415" viewBox="0 0 720 415">
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#386F9B"/>
+  </marker>
+  <marker id="arrow-ink" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#203957"/>
+  </marker>
+</defs>
+<ellipse cx="100" cy="55" rx="72" ry="24" fill="#F2F6FA" stroke="#203957" stroke-width="2"/>
+<text x="100" y="61" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#203957">Termik</text>
+<line x1="172" y1="55" x2="265" y2="121" stroke="#386F9B" stroke-width="1.8" stroke-linecap="round" marker-end="url(#arrow)"/>
+<ellipse cx="100" cy="121" rx="72" ry="24" fill="#F2F6FA" stroke="#203957" stroke-width="2"/>
+<text x="100" y="127" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#203957">Hidrolik</text>
+<line x1="172" y1="121" x2="265" y2="121" stroke="#386F9B" stroke-width="1.8" stroke-linecap="round" marker-end="url(#arrow)"/>
+<ellipse cx="100" cy="187" rx="72" ry="24" fill="#F2F6FA" stroke="#203957" stroke-width="2"/>
+<text x="100" y="193" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#203957">Y.E.K.</text>
+<line x1="172" y1="187" x2="265" y2="121" stroke="#386F9B" stroke-width="1.8" stroke-linecap="round" marker-end="url(#arrow)"/>
+<rect x="265.0" y="88" width="160" height="54" rx="10" fill="#F2F6FA" stroke="#203957" stroke-width="2"/>
+<text x="345" y="121" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#203957">Trafo merkezi</text>
+<rect x="279.0" y="178" width="132" height="54" rx="10" fill="#F2F6FA" stroke="#203957" stroke-width="2"/>
+<text x="345" y="211" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#203957">Ankara</text>
+<rect x="265.0" y="256" width="160" height="54" rx="10" fill="#F2F6FA" stroke="#203957" stroke-width="2"/>
+<text x="345" y="289" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#203957">Yenimahalle</text>
+<rect x="250.0" y="334" width="190" height="54" rx="10" fill="#F2F6FA" stroke="#203957" stroke-width="2"/>
+<text x="345" y="367" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#203957">Gazi Üniversitesi</text>
+<line x1="345" y1="142" x2="345" y2="178" stroke="#386F9B" stroke-width="2" stroke-linecap="round" marker-end="url(#arrow)"/>
+<line x1="345" y1="232" x2="345" y2="256" stroke="#386F9B" stroke-width="2" stroke-linecap="round" marker-end="url(#arrow)"/>
+<line x1="345" y1="310" x2="345" y2="334" stroke="#386F9B" stroke-width="2" stroke-linecap="round" marker-end="url(#arrow)"/>
+<line x1="440" y1="361" x2="520" y2="361" stroke="#386F9B" stroke-width="2" stroke-linecap="round" marker-end="url(#arrow)"/>
+<rect x="522" y="337" width="68" height="48" rx="10" fill="white" stroke="#203957" stroke-width="2"/>
+<text x="556" y="367" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#203957">418</text>
+<line x1="590" y1="361" x2="648" y2="361" stroke="#386F9B" stroke-width="2" stroke-linecap="round" marker-end="url(#arrow)"/>
+<rect x="650" y="338" width="60" height="46" rx="10" fill="#F2F6FA" stroke="#203957" stroke-width="2"/>
+<text x="680" y="368" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#203957">Yük</text>
+</svg>
