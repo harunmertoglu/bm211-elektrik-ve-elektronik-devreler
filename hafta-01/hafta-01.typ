@@ -42,7 +42,7 @@ Akımın birimi amperdir ($"A"$). Akım yönü, elektronların hareket yönünü
 Elektronlar kaynağın eksi kutbundan artı kutbuna; akım ise artı kutuptan eksi kutba doğru kabul edilir.
 
 #figure(
-  image("/01-hafta/assets/akim-yonleri.svg", width: 94%),
+  image("assets/akim-yonleri.svg", width: 94%),
   caption: [Akım yönü ve elektronların hareket yönü],
 )
 
@@ -51,7 +51,7 @@ Elektronlar kaynağın eksi kutbundan artı kutbuna; akım ise artı kutuptan ek
 Doğru akımın yönü değişmez. Alternatif akımın yönü ve değeri zamanla periyodik olarak değişir.
 
 #figure(
-  image("/01-hafta/assets/akim-grafikleri.svg", width: 94%),
+  image("assets/akim-grafikleri.svg", width: 94%),
   caption: [Doğru ve alternatif akımın zamana göre değişimi],
 )
 
@@ -61,7 +61,7 @@ Doğru akımın yönü değişmez. Alternatif akımın yönü ve değeri zamanla
 Gerilim $V$ ile gösterilir ve birimi volttur ($"V"$). Bir elektrik devresinde iki nokta arasındaki potansiyel farka gerilim denir. Elektrik yükleri, potansiyel enerjilerinin yüksek olduğu noktadan düşük olduğu noktaya doğru hareket eder; metal iletkenlerde bu hareketi elektronlar gerçekleştirir.
 
 #figure(
-  image("/01-hafta/assets/gerilim-devresi.svg", width: 90%),
+  image("assets/gerilim-devresi.svg", width: 90%),
   caption: [Devrede $a$ ve $b$ noktaları arasındaki gerilim],
 )
 
@@ -70,7 +70,7 @@ Gerilim $V$ ile gösterilir ve birimi volttur ($"V"$). Bir elektrik devresinde i
 Termik, hidrolik ve Y.E.K. kaynaklarından gelen enerji, trafo merkezinden Ankara, Yenimahalle ve Gazi Üniversitesi üzerinden yüke iletilir.
 
 #figure(
-  image("/01-hafta/assets/dagitim-semasi.svg", width: 96%),
+  image("assets/dagitim-semasi.svg", width: 96%),
   caption: [Üretim kaynaklarından yüke uzanan dağıtım şeması],
 )
 
@@ -84,7 +84,7 @@ $ P = I dot V $
 *Örnek.* $V = 79 " V"$ ve $I = 0,46 " A"$ için:
 
 #figure(
-  image("/01-hafta/assets/guc-devresi.svg", width: 86%),
+  image("assets/guc-devresi.svg", width: 86%),
   caption: [Güç hesabında kullanılan devre],
 )
 
@@ -99,7 +99,7 @@ Devre elemanları aktif ve pasif olarak ikiye ayrılır. Enerji sağlayan eleman
 Kimyasal enerjiyi elektrik enerjisine çeviren pil ve akümülatörler doğru akım kaynaklarıdır. Alternatif akım üreten alternatörlerle birlikte aktif devre elemanlarıdır. Pil, bağımsız gerilim kaynağının bir örneğidir. Bağımsız akım kaynakları da devrelerde kullanılır.
 
 #figure(
-  image("/01-hafta/assets/kaynak-sembolleri.svg", width: 94%),
+  image("assets/kaynak-sembolleri.svg", width: 94%),
   caption: [Pil, bağımsız gerilim kaynağı ve bağımsız akım kaynağı sembolleri],
 )
 
@@ -119,7 +119,7 @@ $ G = 1 / R $
 *Örnek.* Uzunluğu $1200 " cm"$, kesit alanı $4 " mm"^2$ ve özdirenci $rho = 0,017 " Ω" dot "mm"^2 / "m"$ olan iletkenin direnci ve iletkenliği:
 
 #figure(
-  image("/01-hafta/assets/direnc-geometrisi.svg", width: 94%),
+  image("assets/direnc-geometrisi.svg", width: 94%),
   caption: [İletkenin uzunluğu ve kesit alanı],
 )
 
@@ -189,7 +189,7 @@ $ R = 250 dot 10^(-1) = 25 " Ω" quad (±10%) $
 $ R_"min" = 22,5 " Ω", quad R_"maks" = 27,5 " Ω" $
 
 #figure(
-  image("/01-hafta/assets/direnc-renkleri.svg", width: 94%),
+  image("assets/direnc-renkleri.svg", width: 94%),
   caption: [Üç ve beş bantlı direnç örnekleri],
 )
 ]

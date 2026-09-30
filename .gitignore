@@ -3,19 +3,18 @@
 
 !/.gitignore
 
-!/??-hafta/
-!/??-hafta/*.typ
-!/??-hafta/*.pdf
-!/??-hafta/assets/
-!/??-hafta/assets/**
+!/hafta-??/
+!/hafta-??/*.typ
+!/hafta-??/*.pdf
+!/hafta-??/assets/
+!/hafta-??/assets/**
 
-!/toplu-pdf/
-!/toplu-pdf/*.typ
-!/toplu-pdf/*.pdf
+!/bm211-tum-haftalar.typ
+!/bm211-tum-haftalar.pdf
 
 # macOS metadata files are not course assets.
 **/.DS_Store
 **/._*
 
 # El yazısı kaynak taraması yerel referans olarak kalır.
-/??-hafta/kaynak.pdf
+/hafta-??/kaynak.pdf
