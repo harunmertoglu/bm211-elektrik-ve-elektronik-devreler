@@ -16,3 +16,6 @@
 # macOS metadata files are not course assets.
 **/.DS_Store
 **/._*
+
+# El yazısı kaynak taraması yerel referans olarak kalır.
+/??-hafta/kaynak.pdf
