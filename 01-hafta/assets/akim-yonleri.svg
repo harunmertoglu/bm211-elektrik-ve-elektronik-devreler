@@ -19,7 +19,7 @@
 <text x="313" y="177" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" fill="#BD443F">+</text>
 <text x="382" y="177" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="normal" fill="#386F9B">−</text>
 <line x1="252" y1="27" x2="448" y2="27" stroke="#386F9B" stroke-width="2.3" stroke-linecap="round" marker-end="url(#arrow)"/>
-<text x="350" y="17" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" fill="#386F9B">Geleneksel akım yönü</text>
+<text x="350" y="17" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" fill="#386F9B">Akım yönü</text>
 <line x1="448" y1="126" x2="252" y2="126" stroke="#386F9B" stroke-width="2.3" stroke-linecap="round" marker-end="url(#arrow)"/>
 <text x="350" y="151" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" fill="#386F9B">Elektronların hareket yönü</text>
 </svg>

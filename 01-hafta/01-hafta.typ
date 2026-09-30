@@ -37,13 +37,13 @@ Elektrik akımı, elektrik yüklerinin bir devrede yer değiştirmesiyle oluşur
 
 $ I = (d q)/(d t) $
 
-Akımın birimi amperdir ($"A"$). Geleneksel akım yönü, elektronların hareket yönünün tersidir.
+Akımın birimi amperdir ($"A"$). Akım yönü, elektronların hareket yönünün tersidir.
 
-Elektronlar kaynağın eksi kutbundan artı kutbuna; geleneksel akım ise artı kutuptan eksi kutba doğru kabul edilir.
+Elektronlar kaynağın eksi kutbundan artı kutbuna; akım ise artı kutuptan eksi kutba doğru kabul edilir.
 
 #figure(
   image("/01-hafta/assets/akim-yonleri.svg", width: 94%),
-  caption: [Geleneksel akım yönü ve elektronların hareket yönü],
+  caption: [Akım yönü ve elektronların hareket yönü],
 )
 
 == Doğru ve Alternatif Akım
