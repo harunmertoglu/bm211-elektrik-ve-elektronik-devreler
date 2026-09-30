@@ -16,5 +16,5 @@
 <text x="344" y="179" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#203957">ℓ = 1200 cm</text>
 <line x1="575" y1="91" x2="638" y2="52" stroke="#386F9B" stroke-width="1.9" stroke-linecap="round" marker-end="url(#arrow)"/>
 <text x="637" y="41" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#386F9B">S = 4 mm²</text>
-<text x="342" y="31" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#203957">ρ = 0,017 ohm</text>
+<text x="342" y="31" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#203957">ρ = 0,017 Ω·mm²/m</text>
 </svg>

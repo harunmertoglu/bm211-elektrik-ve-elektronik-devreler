@@ -96,7 +96,7 @@ Devre elemanları aktif ve pasif olarak ikiye ayrılır. Enerji sağlayan eleman
 
 == Kaynaklar
 
-Kimyasal enerjiyi elektrik enerjisine çeviren pil ve doğru akım üreten dinamolar; alternatif akım üreten alternatörler aktif devre elemanlarıdır. Pil, bağımsız gerilim kaynağının bir örneğidir. Bağımsız akım kaynakları da devrelerde kullanılır.
+Kimyasal enerjiyi elektrik enerjisine çeviren pil ve akümülatörler doğru akım kaynaklarıdır. Alternatif akım üreten alternatörlerle birlikte aktif devre elemanlarıdır. Pil, bağımsız gerilim kaynağının bir örneğidir. Bağımsız akım kaynakları da devrelerde kullanılır.
 
 #figure(
   image("/01-hafta/assets/kaynak-sembolleri.svg", width: 94%),
@@ -116,14 +116,16 @@ Direncin tersi iletkenliktir. İletkenlik $G$ ile gösterilir; birimi Siemens ($
 
 $ G = 1 / R $
 
-*Örnek.* Uzunluğu $1200 " cm"$, kesit alanı $4 " mm"^2$ ve özdirenci $rho = 0,017$ ohm olan iletkenin direnci ve iletkenliği:
+*Örnek.* Uzunluğu $1200 " cm"$, kesit alanı $4 " mm"^2$ ve özdirenci $rho = 0,017 " Ω" dot "mm"^2 / "m"$ olan iletkenin direnci ve iletkenliği:
 
 #figure(
   image("/01-hafta/assets/direnc-geometrisi.svg", width: 94%),
   caption: [İletkenin uzunluğu ve kesit alanı],
 )
 
-$ R = rho dot ell / S = 0,017 dot 12 / 4 = 0,051 " Ω" $
+$ ell = 1200 " cm" = 12 " m" $
+
+$ R = rho dot ell / S = (0,017 " Ω" dot "mm"^2 / "m") dot (12 " m") / (4 " mm"^2) = 0,051 " Ω" $
 
 $ G = 1 / R = 1 / (0,051 " Ω") approx 19,6 " S" $
 
