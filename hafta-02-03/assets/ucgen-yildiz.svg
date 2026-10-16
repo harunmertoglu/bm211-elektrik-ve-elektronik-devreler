@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="260" viewBox="0 0 700 260">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#386F9B"/></marker></defs>
+<text x="185" y="25" text-anchor="middle" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="18" fill="#203957">Üçgen (Δ)</text>
+<text x="515" y="25" text-anchor="middle" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="18" fill="#203957">Yıldız (Y)</text>
+<line x1="185" y1="45" x2="185" y2="65" stroke="#203957" stroke-width="2.3" stroke-linecap="round"/>
+<line x1="80" y1="220" x2="95" y2="195" stroke="#203957" stroke-width="2.3" stroke-linecap="round"/>
+<line x1="290" y1="220" x2="275" y2="195" stroke="#203957" stroke-width="2.3" stroke-linecap="round"/>
+<path d="M 185.0 65.0 L 159.4 102.0 L 159.4 102.0 L 147.1 103.9 L 157.1 121.1 L 137.4 117.9 L 147.4 135.1 L 127.8 131.9 L 137.7 149.1 L 118.1 145.8 L 120.6 158.0 L 120.6 158.0 L 95.0 195.0" fill="none" stroke="#203957" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 185.0 65.0 L 210.6 102.0 L 210.6 102.0 L 208.1 114.2 L 227.7 110.9 L 217.8 128.1 L 237.4 124.9 L 227.4 142.1 L 247.1 138.9 L 237.1 156.1 L 249.4 158.0 L 249.4 158.0 L 275.0 195.0" fill="none" stroke="#203957" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 95.0 195.0 L 151.0 195.0 L 151.0 195.0 L 159.5 204.0 L 168.0 186.0 L 176.5 204.0 L 185.0 186.0 L 193.5 204.0 L 202.0 186.0 L 210.5 204.0 L 219.0 195.0 L 219.0 195.0 L 275.0 195.0" fill="none" stroke="#203957" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 515.0 45.0 L 515.0 56.0 L 515.0 56.0 L 506.0 64.5 L 524.0 73.0 L 506.0 81.5 L 524.0 90.0 L 506.0 98.5 L 524.0 107.0 L 506.0 115.5 L 515.0 124.0 L 515.0 124.0 L 515.0 135.0" fill="none" stroke="#203957" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 515.0 135.0 L 492.2 156.6 L 492.2 156.6 L 479.8 155.9 L 486.0 174.8 L 467.5 167.6 L 473.7 186.5 L 455.1 179.3 L 461.3 198.2 L 442.8 191.0 L 442.8 203.4 L 442.8 203.4 L 420.0 225.0" fill="none" stroke="#203957" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 515.0 135.0 L 537.8 156.6 L 537.8 156.6 L 537.8 169.0 L 556.3 161.8 L 550.1 180.7 L 568.7 173.5 L 562.5 192.4 L 581.0 185.2 L 574.8 204.1 L 587.2 203.4 L 587.2 203.4 L 610.0 225.0" fill="none" stroke="#203957" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="515" cy="135" r="4" fill="#203957"/>
+</svg>

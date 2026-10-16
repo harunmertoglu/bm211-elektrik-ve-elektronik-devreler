@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="265" viewBox="0 0 700 265">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#386F9B"/></marker></defs>
+<line x1="130" y1="65" x2="130" y2="130.0" stroke="#203957" stroke-width="2.3" stroke-linecap="round"/>
+<line x1="130" y1="215" x2="130" y2="150.0" stroke="#203957" stroke-width="2.3" stroke-linecap="round"/>
+<line x1="107" y1="130.0" x2="153" y2="130.0" stroke="#203957" stroke-width="2.3" stroke-linecap="round"/>
+<line x1="117" y1="150.0" x2="143" y2="150.0" stroke="#203957" stroke-width="2.3" stroke-linecap="round"/>
+<text x="99" y="123.0" text-anchor="middle" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="18" fill="#BD443F">+</text>
+<text x="99" y="160.0" text-anchor="middle" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="18" fill="#386F9B">−</text>
+<text x="91" y="146.0" text-anchor="end" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="17" fill="#203957">V</text>
+<line x1="130" y1="215" x2="610" y2="215" stroke="#203957" stroke-width="2.3" stroke-linecap="round"/>
+<line x1="610" y1="65" x2="610" y2="215" stroke="#203957" stroke-width="2.3" stroke-linecap="round"/>
+<path d="M 130.0 65.0 L 144.0 65.0 L 144.0 65.0 L 152.5 74.0 L 161.0 56.0 L 169.5 74.0 L 178.0 56.0 L 186.5 74.0 L 195.0 56.0 L 203.5 74.0 L 212.0 65.0 L 212.0 65.0 L 226.0 65.0" fill="none" stroke="#203957" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="178.0" y="47.0" text-anchor="middle" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="17" fill="#203957">R₁</text>
+<path d="M 226.0 65.0 L 240.0 65.0 L 240.0 65.0 L 248.5 74.0 L 257.0 56.0 L 265.5 74.0 L 274.0 56.0 L 282.5 74.0 L 291.0 56.0 L 299.5 74.0 L 308.0 65.0 L 308.0 65.0 L 322.0 65.0" fill="none" stroke="#203957" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="274.0" y="47.0" text-anchor="middle" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="17" fill="#203957">R₂</text>
+<path d="M 322.0 65.0 L 336.0 65.0 L 336.0 65.0 L 344.5 74.0 L 353.0 56.0 L 361.5 74.0 L 370.0 56.0 L 378.5 74.0 L 387.0 56.0 L 395.5 74.0 L 404.0 65.0 L 404.0 65.0 L 418.0 65.0" fill="none" stroke="#203957" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="370.0" y="47.0" text-anchor="middle" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="17" fill="#203957">R₃</text>
+<line x1="418.0" y1="65" x2="514.0" y2="65" stroke="#203957" stroke-width="2.3" stroke-linecap="round" stroke-dasharray="5 6"/>
+<path d="M 514.0 65.0 L 528.0 65.0 L 528.0 65.0 L 536.5 74.0 L 545.0 56.0 L 553.5 74.0 L 562.0 56.0 L 570.5 74.0 L 579.0 56.0 L 587.5 74.0 L 596.0 65.0 L 596.0 65.0 L 610.0 65.0" fill="none" stroke="#203957" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="562.0" y="47.0" text-anchor="middle" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="17" fill="#203957">Rₓ</text>
+<line x1="160" y1="120" x2="220" y2="120" stroke="#386F9B" stroke-width="2.3" stroke-linecap="round" marker-end="url(#arrow)"/>
+<text x="190" y="147" text-anchor="middle" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="17" fill="#386F9B">I</text>
+</svg>

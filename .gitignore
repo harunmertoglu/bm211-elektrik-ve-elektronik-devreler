@@ -9,6 +9,13 @@
 !/hafta-??/assets/
 !/hafta-??/assets/**
 
+# Sınırı bilinmeyen 2 ve 3. haftalar tek bölümde tutulur.
+!/hafta-02-03/
+!/hafta-02-03/*.typ
+!/hafta-02-03/*.pdf
+!/hafta-02-03/assets/
+!/hafta-02-03/assets/**
+
 !/bm211-tum-haftalar.typ
 !/bm211-tum-haftalar.pdf
 
@@ -18,3 +25,4 @@
 
 # El yazısı kaynak taraması yerel referans olarak kalır.
 /hafta-??/kaynak.pdf
+/hafta-02-03/kaynak.pdf

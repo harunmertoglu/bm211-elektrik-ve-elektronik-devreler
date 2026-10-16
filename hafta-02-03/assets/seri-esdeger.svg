@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="265" viewBox="0 0 700 265">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#386F9B"/></marker></defs>
+<line x1="130" y1="65" x2="130" y2="130.0" stroke="#203957" stroke-width="2.3" stroke-linecap="round"/>
+<line x1="130" y1="215" x2="130" y2="150.0" stroke="#203957" stroke-width="2.3" stroke-linecap="round"/>
+<line x1="107" y1="130.0" x2="153" y2="130.0" stroke="#203957" stroke-width="2.3" stroke-linecap="round"/>
+<line x1="117" y1="150.0" x2="143" y2="150.0" stroke="#203957" stroke-width="2.3" stroke-linecap="round"/>
+<text x="99" y="123.0" text-anchor="middle" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="18" fill="#BD443F">+</text>
+<text x="99" y="160.0" text-anchor="middle" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="18" fill="#386F9B">−</text>
+<text x="91" y="146.0" text-anchor="end" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="17" fill="#203957">V</text>
+<line x1="130" y1="215" x2="610" y2="215" stroke="#203957" stroke-width="2.3" stroke-linecap="round"/>
+<line x1="610" y1="65" x2="610" y2="215" stroke="#203957" stroke-width="2.3" stroke-linecap="round"/>
+<path d="M 130.0 65.0 L 336.0 65.0 L 336.0 65.0 L 344.5 74.0 L 353.0 56.0 L 361.5 74.0 L 370.0 56.0 L 378.5 74.0 L 387.0 56.0 L 395.5 74.0 L 404.0 65.0 L 404.0 65.0 L 610.0 65.0" fill="none" stroke="#203957" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="370.0" y="47.0" text-anchor="middle" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="17" fill="#203957">Rₑş</text>
+<line x1="160" y1="120" x2="220" y2="120" stroke="#386F9B" stroke-width="2.3" stroke-linecap="round" marker-end="url(#arrow)"/>
+<text x="190" y="147" text-anchor="middle" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="17" fill="#386F9B">I</text>
+</svg>
