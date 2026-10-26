@@ -26,3 +26,14 @@
 # El yazısı kaynak taraması yerel referans olarak kalır.
 /hafta-??/kaynak.pdf
 /hafta-02-03/kaynak.pdf
+
+# notkit
+hafta-*/kaynak.pdf
+hafta-*/.calisma/
+.DS_Store
+!/ders.toml
+!/_sablon/
+!/_sablon/**
+!/AGENTS.md
+!/CLAUDE.md
+!/GEMINI.md
