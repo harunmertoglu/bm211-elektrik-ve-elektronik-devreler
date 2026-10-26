@@ -34,6 +34,6 @@ hafta-*/.calisma/
 !/ders.toml
 !/_sablon/
 !/_sablon/**
-!/AGENTS.md
-!/CLAUDE.md
-!/GEMINI.md
+/AGENTS.md
+/CLAUDE.md
+/GEMINI.md
